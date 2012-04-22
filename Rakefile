@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "faraday-api"
   gem.homepage = "http://github.com/glasner/faraday-api"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "jordan@digitalignition.com"
+  gem.summary = "Wrap any API with Faraday"
+  gem.description = "Wrap any API with Faraday"
+  gem.email = "jordan@monkeywords.com"
   gem.authors = ["Jordan Glasner"]
   # dependencies defined in Gemfile
 end
