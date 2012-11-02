@@ -33,8 +33,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.0.0)
-  faraday (~> 0.6.1)
+  bundler (~> 1.2.0)
+  faraday (>= 0.6.1)
   jeweler (~> 1.8.3)
   rcov
   rdoc (~> 3.12)
